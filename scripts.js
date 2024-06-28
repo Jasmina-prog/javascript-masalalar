@@ -313,3 +313,26 @@
 // }
 // defineNumber("ja8vasc2r15i7pt36")
 
+
+
+
+// -------------------------------------------------------
+
+
+// 2ta son, birinchisi kichik, oraliqdagi 5 raqamidan boshqa hammasini nechtaligini topish
+
+// function hardMasala(initialValue, lastValue) {
+//     let counter = 0
+//     for (let i = initialValue; i < lastValue; i++) {
+//         let number = String(i)
+//         console.log(number);
+//         if(!number.includes(5)){
+//             counter += 1
+//         }
+//     }
+
+//     console.log("the result is " + counter);
+    
+// }
+
+// hardMasala(2, 17)
